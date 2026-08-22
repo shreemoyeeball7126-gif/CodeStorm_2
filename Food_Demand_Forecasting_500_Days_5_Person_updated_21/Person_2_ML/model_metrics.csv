@@ -1,0 +1,3 @@
+model,MAE,RMSE
+LinearRegression,6.82,8.45
+RandomForest,9.7,12.36
