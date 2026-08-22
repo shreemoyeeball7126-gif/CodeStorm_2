@@ -1,0 +1,11 @@
+recipient_id,recipient_name,recipient_type,capacity_meals,distance_km,priority,verified
+R01,Campus Community Kitchen,Community Kitchen,50,1.0,5,True
+R02,Student Support Pantry,Campus Pantry,40,0.8,5,True
+R03,Local Community Food Program,Community Program,75,3.0,4,True
+R04,Nearby Shelter,Shelter Home,60,4.0,3,True
+R05,Volunteer Meal Program,Institutional Program,30,0.5,2,True
+R06,Hope Shelter Home,Shelter Home,55,4.5,3,True
+R07,Sunrise Old Age Home,Old Age Home,35,2.5,4,True
+R08,City Street Outreach Program,Street Outreach,45,3.5,4,True
+R09,Paws & Whiskers Animal Shelter,Animal Shelter,20,5.5,2,True
+R10,Golden Years Care Home,Old Age Home,25,6.0,3,True
