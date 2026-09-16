@@ -1,3 +1,24 @@
+FoodWise
+
+Smart Food Demand Forecasting & Surplus Management System
+Predict smarter. Prepare better. Waste less. 🌱
+
+FoodWise is a smart food-service management system designed to help institutions such as colleges and campuses forecast meal demand, identify surplus food, and estimate the environmental and financial impact of reducing food waste.
+
+Built for Smart India Hackathon 2026.
+
+🚨 The Problem
+Large institutions prepare hundreds or thousands of meals every day. When demand is difficult to estimate accurately, two problems occur:
+
+🍱 Over-preparation → unnecessary food waste
+📉 Under-preparation → insufficient meals for the actual demand
+Food waste also represents wasted resources, money, energy, and greenhouse-gas emissions.
+
+FoodWise addresses this problem by combining historical food-service data with machine learning-based demand prediction and surplus analysis.
+
+💡 Our Solution
+FoodWise provides a simple pipeline:
+
 Historical Data
       ↓
 Demand Prediction
